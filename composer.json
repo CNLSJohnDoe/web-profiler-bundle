@@ -19,10 +19,6 @@
         {
             "type": "git",
             "url": "https://github.com/CNLSJohnDoe/twig-bridge.git"
-        },
-        {
-            "type": "git",
-            "url": "https://github.com/CNLSJohnDoe/twig.git"
         }
     ],
     "require": {
